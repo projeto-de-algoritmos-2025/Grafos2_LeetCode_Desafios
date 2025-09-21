@@ -36,7 +36,7 @@ A linguagem de programação utilizada para resolver cada exercício foi o Pytho
 
 ### Exercício 04 - Médio - 743. Network Delay Time
 
-![Screenshot do exercício 743](assets)
+![Screenshot do exercício 743](assets/743_screenshot.png)
 
 ## Vídeo de apresentação do Trabalho 2
 
