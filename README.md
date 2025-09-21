@@ -24,9 +24,13 @@ A linguagem de programação utilizada para resolver cada exercício foi o Pytho
 
 ### Exercício 01 - Difícil 
 
-### Exercício 02 - Difícil 
+### Exercício 02 - Difícil - 
 
-### Exercício 03 - Médio 
+![Screenshot do exercício 1489](assets/1489_screenshot.png)
+
+### Exercício 03 - Médio - 1584. Min Cost to Connect All Points
+
+![Screenshot do exercício 1584](assets/1584_screenshot.png)
 
 ### Exercício 04 - Médio 
 
