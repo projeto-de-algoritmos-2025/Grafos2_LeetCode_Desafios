@@ -22,9 +22,11 @@ A linguagem de programação utilizada para resolver cada exercício foi o Pytho
 
 ## Screenshots
 
-### Exercício 01 - Difícil 
+### Exercício 01 - Difícil - 3600. Maximize Spanning Tree Stability with Upgrades
 
-### Exercício 02 - Difícil - 
+![Screenshot do exercício 3600](assets/3600_screenshot.png)
+
+### Exercício 02 - Difícil - 1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree
 
 ![Screenshot do exercício 1489](assets/1489_screenshot.png)
 
@@ -32,7 +34,9 @@ A linguagem de programação utilizada para resolver cada exercício foi o Pytho
 
 ![Screenshot do exercício 1584](assets/1584_screenshot.png)
 
-### Exercício 04 - Médio 
+### Exercício 04 - Médio - 743. Network Delay Time
+
+![Screenshot do exercício 743](assets)
 
 ## Vídeo de apresentação do Trabalho 2
 
